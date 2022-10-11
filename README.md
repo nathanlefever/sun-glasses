@@ -1,5 +1,9 @@
 # sun-glasses
 sun glasses suggestion from discord
  <html>
-![My Image](Screenshot 2022-10-11 171259.png)
+<img
+  src="/path/to/img.jpg"
+  alt="glasses"
+  title="glasses"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 </html>
